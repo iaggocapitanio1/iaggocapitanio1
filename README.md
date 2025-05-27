@@ -49,13 +49,14 @@
 
 ---
 
+<!--
 ## 📌 Featured Projects
 
 - 🔎 [**kindra-track**](https://github.com/iaggocapitanio1/kindra-track): Cross-platform livestock tracking using Flutter + Bloc.
 - 🎥 [**video-processing-pipeline**](https://github.com/iaggocapitanio1/video-pipeline): Event-driven system for smart video analytics.
 - 🛰️ [**iot-erp-integration**](https://github.com/iaggocapitanio1/iot-erp): Backend integrating FIWARE IoT and ERP for real-time traceability.
+-->
 
----
 
 ## 🎓 Education
 
