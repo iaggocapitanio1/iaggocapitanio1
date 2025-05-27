@@ -33,6 +33,7 @@
 
 ## 🚧 Currently Working On
 
+- 📱 Mobile Development  
 - 🧠 AI-enhanced livestock analytics  
 - 🧪 Real-time anomaly detection for industrial applications  
 - 📹 Edge-based smart video processing systems
