@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaggocapitanio1&layout=compact&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaggocapitanio1&layout=compact&theme=dark&hide=html,css)
 
 ---
 
