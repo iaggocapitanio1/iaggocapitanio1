@@ -3,6 +3,7 @@
 
 🎯 **Software Engineer** passionate about crafting scalable solutions using modern technologies. I thrive on projects that merge real-time systems, performance optimization, and elegant UX—across web, mobile, embedded, and cloud platforms.
 
+https://iaggocapitanio.com.br/
 ---
 
 ## 🔧 Tech Expertise
